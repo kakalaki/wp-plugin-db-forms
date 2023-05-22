@@ -135,4 +135,3 @@ function DBForms_options_page()
     <?php
   }
 }
-global $wpdb;
